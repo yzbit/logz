@@ -8,6 +8,10 @@ a header only lite logging library for C++(11+)
 - thread safe
 - ratationally resizable log file
 
+# compile
+
+g++ example.cpp -o logz
+
 # Usage
 
 refer to example.cpp
